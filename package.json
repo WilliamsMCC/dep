@@ -1,0 +1,18 @@
+{
+  "name": "asados-a-cabron",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "glob": "^11.0.0",
+    "less": "^4.2.1",
+    "vite": "^6.0.1",
+    "vite-plugin-handlebars": "^2.0.0",
+    "vite-plugin-purgecss": "^0.2.12"
+  }
+}
